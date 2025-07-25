@@ -30,4 +30,5 @@ const user = new Schema(
 )
 
 const userData = mongoose.model('Items', user)
+// har gha par \isko he export karna hii..
 export default userData
